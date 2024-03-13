@@ -1,5 +1,7 @@
 # .NET 6 Blazor Web Application
 
+![image](https://github.com/FernMiran/BlazorFullStack_ComicCRUD/assets/131997335/58e701b3-936d-4a60-97bc-93cd8a99ebe9)
+
 ## Description
 
 This project is a .NET 6 Blazor Web Application developed following the N-Tier architecture principles. It's based on the foundational concepts presented in Patrick God's YouTube tutorial ([Watch Here](https://www.youtube.com/watch?v=K_P-qJj_8Bg)). Building upon those basics, the application has been enhanced with Data Transfer Objects (DTOs), the Service-Repository pattern, and the use of AutoMapper for object mapping, resulting in a more structured, maintainable, and scalable application.
