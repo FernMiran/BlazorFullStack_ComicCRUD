@@ -1,0 +1,22 @@
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.deps.json
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.dll
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.pdb
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.AssemblyInfoInputs.cache
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.AssemblyInfo.cs
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.dll
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\refint\BlazorFullStackCRUD_Patrick.Shared.dll
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.pdb
+C:\Users\Fer\source\repos\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\ref\BlazorFullStackCRUD_Patrick.Shared.dll
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.deps.json
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.dll
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\bin\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.pdb
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.AssemblyInfoInputs.cache
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.AssemblyInfo.cs
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.csproj.CoreCompileInputs.cache
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.dll
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\refint\BlazorFullStackCRUD_Patrick.Shared.dll
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\BlazorFullStackCRUD_Patrick.Shared.pdb
+E:\ASP NET\Solutions\BlazorFullStackCRUD_Patrick\BlazorFullStackCRUD_Patrick\Shared\obj\Debug\net6.0\ref\BlazorFullStackCRUD_Patrick.Shared.dll
