@@ -1,4 +1,4 @@
-# .NET 6 Blazor CRUD Web Application (Comic Shop)
+# .NET 6 Blazor CRUD Web Application (SuperHero Catalog)
 
 ![image](https://github.com/FernMiran/BlazorFullStack_ComicCRUD/assets/131997335/58e701b3-936d-4a60-97bc-93cd8a99ebe9)
 
